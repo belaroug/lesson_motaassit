@@ -4,18 +4,18 @@
     {
       "id": "arabic",
       "name": "اللغة العربية",
-      "lessons_url": "https://raw.githubusercontent.com/USERNAME/REPO/main/lessons/arabic.json",
+      "lessons_url": "https://raw.githubusercontent.com/lesson_motaassit/blob/main/lessons/arabic.json",
       "exams": [
-        {"title": "فرض الفصل الأول", "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/exams/arabic1.pdf"},
-        {"title": "فرض الفصل الثاني", "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/exams/arabic2.pdf"}
+        {"title": "فرض الفصل الأول", "url": "https://raw.githubusercontent.com/lesson_motaassit/blob/main/exams/arabic1.pdf"},
+        {"title": "فرض الفصل الثاني", "url": "https://raw.githubusercontent.com/lesson_motaassit/blob/main/exams/arabic2.pdf"}
       ]
     },
     {
       "id": "math",
       "name": "الرياضيات",
-      "lessons_url": "https://raw.githubusercontent.com/USERNAME/REPO/main/lessons/math.json",
+      "lessons_url": "https://raw.githubusercontent.com/lesson_motaassit/blob/main/lessons/math.json",
       "exams": [
-        {"title": "فرض 1", "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/exams/math1.pdf"}
+        {"title": "فرض 1", "url": "https://raw.githubusercontent.com/lesson_motaassit/blob/main/exams/math1.pdf"}
       ]
     }
   ]
